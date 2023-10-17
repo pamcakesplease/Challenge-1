@@ -6,6 +6,7 @@ Modified started code to make more accesible and easier to understand. CSS has b
 
 ## Usage
 Code is now easier to understand and all links are fully functional.
+https://pamcakesplease.github.io/Challenge-1/
 
 ![screenshotofwebsite](assets/images/01-html-css-git-homework-demo.png)
 
